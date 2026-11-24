@@ -4,7 +4,7 @@
 
 Varmla adalah website e-commerce untuk brand fiktif asal Stockholm yang membuat **perapian keramik bioetanol tanpa cerobong** untuk apartemen dan rumah kecil. Produknya: hearth (Round dan Oval), burner, bahan bakar nabati beraroma, dan aksesori. Pengunjung yang dituju adalah penghuni kota yang ingin api sungguhan tanpa renovasi.
 
-Project ini adalah rebuild orisinal yang terinspirasi tampilan dan perilaku sebuah situs referensi. Produk, palet warna, copy, logo, gambar, dan kode semuanya dibuat baru.
+Project ini adalah karya orisinal. Produk, palet warna, copy, logo, gambar, dan kode semuanya dibuat baru.
 
 ## Halaman (27)
 
@@ -43,7 +43,7 @@ Artikel: `room-for-a-hearth.html`, `stove-or-hearth.html`, `electric-fire-vs-rea
 
 ## Teknologi
 
-HTML, CSS, dan JavaScript native, tanpa framework, library, atau langkah build. Font lokal: Archivo, Archivo Narrow, dan Federo (logo; pengganti font display berlisensi di referensi).
+HTML, CSS, dan JavaScript native, tanpa framework, library, atau langkah build. Font lokal: Archivo, Archivo Narrow, dan Federo (logo).
 
 ## Menjalankan
 
